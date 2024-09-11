@@ -50,8 +50,7 @@ Email:
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
 Password:  
-<input type="Password" id="pass" name="pass"> <br>   
-<br> <br>  
+<input type="Password" id="pass" name="pass"> <br>    
 Re-type password:  
 <input type="Password" id="repass" name="repass"> <br> <br>  
 <input type="button" value="Submit"/>  
